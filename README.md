@@ -20,6 +20,18 @@ npm start
 
 ---
 
+## 🥈 My Contributions (Soumya Patel)
+
+This is my fork of the team project that placed 2nd at Hacktoberfest Hack Day (Oct 2026). My work:
+
+- **MediaPipe gesture handling:** hand-tracking logic for touchless control.
+- **Voice handling:** voice-command flow and its logic.
+- **Add-patient flow:** adding new patient records.
+- **Prompting:** the LLM prompts behind the reasoning engine.
+- **Bug fixing** across the above.
+
+---
+
 ## 🏛️ System Architecture
 
 MEDIQ is engineered as a decoupled, event-driven distributed system separating real-time audio/spatial interaction in the browser from clinical intelligence reasoning and data persistence in the Node.js bridge.
